@@ -1,5 +1,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jakub-stejskal/)](https://www.linkedin.com/in/jakub-stejskal/)
 
+<a href='https://skodjob.io/' target="_blank"><img alt='skodjob' src='https://img.shields.io/badge/skodjob-100000?style=for-the-badge&logo=skodjob&logoColor=black&labelColor=white&color=white'/></a>
+
+# TechStack
+![](https://skillicons.dev/icons?i=kubernetes,openshift,ansible,git,docker,github,githubactions,redhat,prometheus,grafana,java,gradle,maven,selenium,linux,jenkins,bash,md,typescript,js,kafka,aws,openstack,py&theme=dark&perline=17)
+
 <!--
 **Frawless/frawless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Stats
+
 ![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=frawless&count_private=true&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frawless&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frawless&theme=dracula&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### Videos
+# Videos
 Date | Title
 -----|-----
 2022-01-29 | [Promote Strimzi to prod with ArgoCd and Tekton](https://www.youtube.com/watch?v=oLAYig0zQgw)
